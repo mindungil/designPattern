@@ -27,5 +27,4 @@ public class Controller {
         view.printData(data.getData());
         view.printId(data.getId());
     }
-
 }
